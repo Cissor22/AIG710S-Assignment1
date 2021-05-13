@@ -1,0 +1,7 @@
+name = "Problem2"
+uuid = "15360bac-ca4a-4bde-81dc-e6a95c4fdc42"
+authors = ["Cesário <calves.2759@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+PlutoUI = "7f904dfe-b85e-4ff6-b463-dae2292396a8"
